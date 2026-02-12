@@ -3,11 +3,6 @@ Ejercicio 6
 Leer un número entero en la variable VALOR. Utilizar operadores de bits (bitwise)
 para determinar si el número es par o impar (verificando el bit menos significativo)
 y mostrar el resultado. No está permitido usar el operador de módulo (%).
-
-Integrantes:
--Lilia Ospino, Moises Del Toro, Diego Luengas, Keyner Viloria
-
-Compilador usado:  GCC (OnlineGDB)
 */
 
 #include <stdio.h>
