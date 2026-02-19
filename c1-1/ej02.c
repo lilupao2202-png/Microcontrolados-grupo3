@@ -24,8 +24,5 @@ int main(){
     double resultado=Raiz(NUMERO);
     printf("Número:%i, Raiz cuadrada usando Newton:%.6f",NUMERO,resultado);
     
-    
-    
-    
     return 0;
 }
